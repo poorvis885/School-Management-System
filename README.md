@@ -31,5 +31,3 @@ The project aims to simplify the day-to-day operations and enhance the efficienc
 - Students can view their progress, attendance, and fee status.
 - Generate reports for students, attendance, and financial details.
 
-## License
-This project is licensed.
